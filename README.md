@@ -6,7 +6,7 @@ SUMO version is **v1_16_0**
 - Download eclipse-mosaic-23.0.zip from: https://eclipse.dev/mosaic/docs/getting_started/
 - Extract it into a directory
 - Clone the project into the "mosaic/scenarios" directory
-- While in the "mosaic" directory, execute the following command: ./mosaic.sh -s Ccr_sqy -v
+- While in the "mosaic" directory, execute the following command: ./mosaic.sh -s Ccr_sqy -v (for Linux) and ./mosaic.bat -s Ccr_sqy -v (for Windows)
 
 **Contacts**:
 - Jean Tshibangu Muabila: `jean.tshibangu-muabila_at_estaca.fr`
