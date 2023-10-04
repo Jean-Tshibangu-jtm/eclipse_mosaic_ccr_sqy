@@ -1,0 +1,14 @@
+{
+  "prototypes": [
+    {
+      "name": "tkrauss",
+      "applications": [ "org.eclipse.mosaic.app.tutorial.cam.CamSendingApp","org.eclipse.mosaic.app.tutorial.cam.UserTaggedValueReadingApp" ]
+    },
+    {
+      "name": "veh_passenger",
+      "applications": [ "org.eclipse.mosaic.app.tutorial.cam.CamSendingApp","org.eclipse.mosaic.app.tutorial.cam.UserTaggedValueReadingApp" ]
+    }
+    
+  ]
+  
+  }
