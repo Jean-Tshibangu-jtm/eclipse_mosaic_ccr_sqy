@@ -1,0 +1,35 @@
+{
+	"events": 
+	[
+		{
+			"type": 
+			{
+				"sensorType": "OBSTACLE",
+				"value": 1
+			},
+			"location":
+			{
+				"area":
+				{
+					"type": "Rectangle",
+					"a": 
+					{
+						"latitude": 48.827085,
+						"longitude":  1.955995
+					},
+					"b": 
+					{ 
+						"latitude": 48.826384, 
+						"longitude": 1.955922
+					}
+				}
+			},
+			"time": 
+			{
+				"start": "600 s",
+				"end": "1800 s"
+			}
+		}
+	]
+}
+
