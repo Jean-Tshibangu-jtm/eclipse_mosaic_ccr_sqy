@@ -1,0 +1,32 @@
+{
+  "prototypes": [
+    {
+      
+      "name": "user_defined_flows",
+      "applications": ["org.eclipse.mosaic.app.tutorial.SlowDownApp","org.eclipse.mosaic.app.tutorial.OstacleWarningCellApp""],
+      "group": "Cellular",
+      "weight": 1
+    },
+   
+    {
+      
+      "name": "randomly_generated_traffic",
+      "applications": ["org.eclipse.mosaic.app.tutorial.SlowDownApp","org.eclipse.mosaic.app.tutorial.OstacleWarningCellApp" ],
+      "group": "Cellular",
+      "weight": 1
+    }
+    
+  ],
+  "servers": [
+    {
+        "name": "RoadWarningsServer",
+        "group": "RoadWarningsServer",
+        "applications": [ "org.eclipse.mosaic.app.tutorial.EventsServerApp" ]
+    }
+]
+  
+  }
+
+
+
+  
